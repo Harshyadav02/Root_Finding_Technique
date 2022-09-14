@@ -27,3 +27,4 @@ def bisection(a,b):
             i=i+1   
         print(i,"  ",a,"  ",b,"  ",m,"  ",f(m))
 bisection(a,b)
+
